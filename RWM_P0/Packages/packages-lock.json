@@ -225,8 +225,8 @@
       },
       "url": "https://packages.unity.com"
     },
-    "ie.setu.cubefilter": {
-      "version": "file:ie.setu.cubefilter",
+    "ie.setu.runningtotal": {
+      "version": "file:ie.setu.runningtotal",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

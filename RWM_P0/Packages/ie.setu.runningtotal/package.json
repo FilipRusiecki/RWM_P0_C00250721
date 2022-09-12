@@ -1,0 +1,7 @@
+{
+	"name": "ie.setu.runningtotal",
+	"version": "0.1.0",
+	"displayName": "RunningTotal",
+	"description": "Gets the running total from a sequence of numbers",
+	"unity": "2021.3"
+}
